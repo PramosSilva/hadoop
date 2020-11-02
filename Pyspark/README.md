@@ -60,7 +60,7 @@ Ele deverá abrir a tela do jupyter notebook. Digite em um célula o seguinte co
 ```
 sc
 ```
-Deverá ser retornado a versão instalda.
+Deverá ser retornado a versão instalada.
 ```
 SparkContext
 
