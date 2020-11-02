@@ -1,6 +1,6 @@
 # Instalando Pyspark no Linux
 
-Este tutorial presupõe que esteja instalado o Anaconda.
+Este tutorial pressupõe que esteja instalado o Anaconda.
 
 ## Instalar o JDK 1.8
 
