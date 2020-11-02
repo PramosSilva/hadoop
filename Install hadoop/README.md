@@ -1,4 +1,4 @@
-## Configurando o Linux
+## Configurando Hadoop no Linux
 
 Execute os códigos a seguir para atualizar e instalar alguns pacotes.
 ```
