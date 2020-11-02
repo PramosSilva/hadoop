@@ -18,7 +18,7 @@ sudo apt install openjdk-8-jdk
 ## Instalar Spark
 
 O download pode ser feito no site [Apache Spark](https://spark.apache.org/downloads.html).  
-Após baixar o arquivo, descompacte utilizando o código a seguir: 
+Baixe o arquivo e descompacte utilizando o código a seguir: 
 ```
 tar -xvf spark-version
 ```
