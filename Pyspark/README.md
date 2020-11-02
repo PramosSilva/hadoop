@@ -56,7 +56,7 @@ Verificque se esta funcionando corretamente. Abra o terminal e execute o comando
 ```
 pyspark
 ```
-Ele deverá abrir a tela do jupyter notebook. Digite em um célula o seguinte comanto.
+Ele deverá abrir a tela do jupyter notebook. Digite em uma célula o seguinte comanto.
 ```
 sc
 ```
