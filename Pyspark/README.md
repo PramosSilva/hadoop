@@ -4,13 +4,13 @@ Este tutorial pressupõe que esteja instalado o Anaconda.
 
 ## Instalar o JDK 1.8
 
-No meu caso eu tive problema com o JDK pois existia uma outra versão instalada na máquina.  
+Caso já tenha instalado na máquina, verifique a versão ou tente instalar uma outra.
 Para corrigir este erro, primeiro liste as versões do java que estão instaladas e selecione a desejada.
 ```
 sudo update-alternatives --config java
 ```
 
-No meu caso eu instalei utilizando o comando apt e repeti o processo acima para selecionar a nova versão instalada.
+É possível instalar utilizando o comando apt. Após instalar execute o processo acima para selecionar a nova versão instalada.
 ```
 sudo apt install openjdk-8-jdk
 ```
