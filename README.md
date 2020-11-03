@@ -1,6 +1,6 @@
 # Hadoop  
 
-Repositório para arquivos feitos com hadoop.
+Repositório para arquivos trabalhdos utilizando hadoop.
 
 ## Diretório
 
