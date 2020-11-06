@@ -3,10 +3,10 @@
 1. Utilizar o Dataset recomendação.csv disponibilizado no canvas:  
 Schema: user_id int, item_id int, rating int, item string  
 
-2. Utilizar a ferramenta pydeequ(https://pypi.org/project/pydeequ/) (Links para um site externo.) para verificar se todos os dados se enquadram no schema definido acima. Imprimir o Data Quality Report gerado pela ferramenta.  
+2. Utilizar a ferramenta [pydeequ](https://pypi.org/project/pydeequ/) (Links para um site externo.) para verificar se todos os dados se enquadram no schema definido acima. Imprimir o Data Quality Report gerado pela ferramenta.  
 OBS: Para executar a ferramenta  
 Fazer download do deequ-1.0.5.jar e salvar na pasta que será executado o pyspark  
-https://repo1.maven.org/maven2/com/amazon/deequ/deequ/1.0.5/deequ-1.0.5.jar (Links para um site externo.)  
+ [Links para um site externo](https://repo1.maven.org/maven2/com/amazon/deequ/deequ/1.0.5/deequ-1.0.5.jar)  
 Instalar o pydeequ via pip  
 Rodar o comando   pyspark --driver-class-path deequ-1.0.5.jar  
 
