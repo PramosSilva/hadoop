@@ -2,7 +2,7 @@
 
 Objetivo: Realizar o pré-processamento do dataset Movielens utilizando a linguagem de programação pyspark.
 
-Etapas a serem desenvolvidas:
+**Etapas a serem desenvolvidas:**
 
 1. Utilizar o Dataset recomendação.csv disponibilizado no canvas:  
 Schema: user_id int, item_id int, rating int, item string  
