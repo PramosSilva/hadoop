@@ -1,0 +1,16 @@
+Referencia
+
+https://movile.blog/sistemas-de-recomendacao-com-filtros-colaborativos/
+
+https://spark.apache.org/docs/latest/api/python/pyspark.ml.html#module-pyspark.ml.recommendation
+
+Seguindo este tutorial.  
+https://medium.com/analytics-vidhya/crafting-recommendation-engine-in-pyspark-a7ca242ad40a
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/2823893187441173/2202577924924539/latest.html
+
+https://ichi.pro/pt/post/74075263465224
+
+**mllib.recommendation** - A filtragem colaborativa é comumente usada para sistemas de recomendação. Essas técnicas visam preencher as entradas ausentes de uma matriz de associação de itens do usuário.
+
+Filtragem colaborativa - Este sistema combina pessoas com interesses semelhantes e fornece recomendações com base nessa correspondência. Os filtros colaborativos não requerem metadados de itens como suas contrapartes baseadas em conteúdo. Esta é a recomendação personalizada mais sofisticada, o que significa que leva em consideração o que o usuário gosta e o que não gosta. O principal exemplo disso é o Google Ads. Sob a égide da filtragem colaborativa, temos os seguintes tipos de métodos -
